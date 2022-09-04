@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App del Clima</string>
+    <string name="texto_grados">23º</string>
+    <string name="texto_ciudad">Guadalajara</string>
+    <string name="texto_estatus">Soleado</string>
+    <string name="texto_bienvenida">Bienvenido a la app del clima, selecciona tu localidad</string>
+    <string name="texto_boton_guanatos">Guanatos</string>
+    <string name="texto_boton_cdmx">CDMX</string>
+</resources>
